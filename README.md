@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZachData (He/Him/His)
-- 👀 I’m interested in NLP, Animation from ML, and 
-- 🌱 I’m currently learning SSL representations applied to small images
+- 👀 I’m interested in Self-Supervised Learning (SSL)
+- 🌱 I’m currently learning SSL applied to continuous representations
 - 💞️ I’m looking to collaborate on the application of ML to the arts and sciences!
 - 📫 How to reach me: message me here! or, email me!
 
