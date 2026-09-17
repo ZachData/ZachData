@@ -6,10 +6,8 @@ Current work: Geshkovski et al.'s A Mathematical Perspective on Transformers tre
 
 Random weights follow the theory given in 'Mathematical Perspective': energy rises monotonically, the token cloud collapses. Trained weights don't. Energy monotonicity fails in every model, prompt, and inverse temperature I've tested, and effective rank is maintained instead of collapsing. Measured across GPT-2 (small–XL), ALBERT v2, and BERT. 
 
-See initial write-up here: [Transformers Resist Their Own Architecture](https://www.lesswrong.com/posts/2dA7phbYZGPjhTj9q/transformers-resist-their-own-architecture)
-
+[Transformers Resist Their Own Architecture](https://www.lesswrong.com/posts/2dA7phbYZGPjhTj9q/transformers-resist-their-own-architecture): initial write up
 [MetastableStateAnalysis repo](https://github.com/ZachData/MetastableStateAnalysis): experiments, clustering, energy functionals, spectral analysis
-
 [research-vm-infra repo](https://github.com/ZachData/research-vm-infra): the AWS pipeline it all runs on
 
 Also. Analysis of Variational Sparse Autoencoders (arXiv, revision in progress). 
